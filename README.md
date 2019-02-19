@@ -1,2 +1,0 @@
-# HuskieHackDemo
-Created with CodeSandbox
